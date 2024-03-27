@@ -1,0 +1,83 @@
+---
+title: "Partie 1 – Envoyer des e-mails accessibles et efficaces"
+---
+
+## Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où »
+
+Faire apparaître les informations suivantes en début d’e-mail :
+
+&rarr; Qui : permet au destinataire de savoir s’il ou elle est concerné </br>
+&rarr; Quoi : si concerné, alors pour quel sujet </br>
+&rarr; Quand : si cela concerne un événement, la date auquel il aura lieu </br>
+&rarr; Où : le lieu où se déroulera cet événement </br>
+
+## Conseil 1.2 : les pièces jointes
+
+### Les documents .odt, .doc ou .docx : structurer le texte pour un meilleur accès à l’information
+
+&rarr; Utiliser des titres ou des styles : voir « Fiches pour créer un document Microsoft Word, Excel ou PowerPoint respectant les règles d’accessibilité numérique » [13] <!-- ref 13 --> </br>
+&rarr;	A minima structurer le texte avec des puces et/ou un système de numérotation afin de faciliter la navigation dans le document
+
+### Les documents .pdf : comment les rendre accessible
+
+Le format PDF est un des formats les plus couramment utilisé, mais il est difficilement accessible aux technologies d’assistance.
+
+&rarr; Si possible : copier le contenu de la pièce jointe dans le corps de texte de l’e-mail
+
+- Les personnes dyslexiques ou malvoyantes pourront adapter la mise en forme du texte à leur convenance
+- Le contenu du fichier PDF sera plus accessible pour les utilisateurs de smartphone
+
+&rarr; Sinon : voir le guide « Comment créer un document PDF accessible avec Word ? » de l’association Point de vue sur la ville [14] <!-- lien page -->
+
+### Les documents scannés : un format à éviter
+
+Malheureusement, ce type de document est incompatible avec certaines technologies utilisées par les personnes en situation de handicap. Il sera considéré comme une image et donc inintelligible pour votre destinataire.
+
+&rarr;	Éviter au maximum de partager ce type de document </br>
+&rarr;	Si vous n’avez pas le choix : proposer une alternative au contenu de ce document, par exemple en résumant son contenu dans le corps de l’e-mail. Voir Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où ». <!-- lien vers conseil 1.1 -->
+
+### Conseil 1.3 : la mise en page du texte
+
+Mettre en page son texte présente de multiples intérêts, notamment pour les contenus textuels longs (plus de quelques phrases). Le contenu rédigé sera plus agréable à lire, et donc la lecture plus efficace pour votre destinataire. 
+
+Pour respecter les règles les plus courantes d’accessibilité, il faut : 
+
+&rarr;	Utiliser correctement la hiérarchie des titres proposé par votre éditeur d’e-mails </br>
+&rarr;	Utiliser des listes numérotées ou à puces quand cela a du sens </br>
+&rarr;	Utiliser une police d’écriture accessible </br>
+
+> Il n’existe pas à l’heure actuelle *la* police idéale, mais certaines sont plus universelles que d’autres en termes d’accessibilité. Par exemple : Arial, Calibri, Helvetica, Trebuchet ou Verdana, ou encore Luciole, une police créée pour les personnes dyslexiques.
+
+&rarr;	Ne pas justifier le texte : cela a pour effet d’étirer artificiellement les mots, rendant la lecture difficile notamment pour les personnes dyslexiques </br>
+&rarr;	Expliciter les acronymes et les abréviations </br>
+&rarr;	Être vigilant aux contrastes de couleur : du jaune clair sur fond blanc sera plus difficile à lire que du rouge foncé sur fond blanc </br>
+&rarr;	Ne pas utiliser une couleur comme seul moyen de transmettre l’information : proposer un texte alternatif </br>
+&rarr;	Mettre des accents aux lettres en majuscule </br>
+&rarr;	Éviter les sauts de ligne </br>
+
+### Conseil 1.4 : le transfert d’e-mails et la fonction répondre à tous
+
+Transférer un e-mail sur une liste de diffusion, ou répondre à un grand nombre de destinataires en même temps, s’accompagnent souvent de l’envoi d’informations pas toujours utiles. Pour éviter que cela prenne énormément de temps à vos collègues en situation de handicap pour lire vos e-mails, vous pouvez : 
+&rarr;	Effacer la liste des destinataires d’origine </br>
+&rarr;	Modifier l’objet de l’e-mail pour qu’il soit plus approprié </br>
+&rarr;	Effacer l’historique des échanges si cela ne nuit pas à la compréhension </br>
+&rarr;	Utiliser le Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où » </br>
+
+### Conseil 1.5 : la signature d’e-mails
+
+De nombreux outils permettent de créer une signature automatique qui contient diverses informations utiles. Comme nous l’avons vu précédemment, le format image est très peu accessible aux technologies d’assistance. 
+
+&rarr;	Éviter les signatures en format image uniquement (.jpeg, .png par exemple) </br>
+&rarr;	Si vous n’avez pas le choix : éviter que des informations essentielles soient au format image (par exemple votre numéro de téléphone). Si c’est le cas, prévoir un texte alternatif pour les personnes qui n’y auront pas accès </br>
+
+### Conseil 1.6 : l’écriture inclusive 
+
+L’écriture inclusive est une façon de communiquer en incluant un public le plus large possible. Dans la langue française, elle se décline de plusieurs manières. L’usage du point médian est le plus connu, mais il reste malheureusement assez peu accessible pour certains publics en situation de handicap. Cependant, il est toujours possible de :
+
+&rarr;	Utiliser l’écriture dite détaillée ou décomposée. Par exemple : les chercheuses et les chercheurs ; les auteurs et les autrices </br>
+&rarr;	Utiliser des mots épicènes (identique pour les deux genres). Par exemple : un ou une gestionnaire, un ou une stagiaire </br>
+&rarr;	Utiliser des formules englobantes. Par exemple : « l’équipe de développement » à la place de « les développeurs et développeuses » </br>
+
+
+
+

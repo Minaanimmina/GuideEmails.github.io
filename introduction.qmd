@@ -1,0 +1,39 @@
+---
+title: "Pourquoi ce guide ?"
+---
+
+# L’accessibilité numérique, une obligation légale 
+
+> « Le pouvoir du Web réside dans son universalité. L'accès pour tous, quel que soit le handicap, est un aspect essentiel. » *Tim Berners-Lee, directeur du W3C et inventeur du World Wide Web*
+
+L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » [1] <!-- ref 1 -->
+
+Imaginez que votre lecteur d’écran[^1] liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible. Pour comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références [voir 7]. <!-- ref 7 -->
+
+[^1]: Un lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur. 
+
+L’accessibilité numérique est une obligation légale depuis la loi du 11 février 2005 pour les personnes morales de droit public, comme les Universités françaises ou le CNRS. Les supports numériques concernés sont « les sites internet, intranet, extranet, les applications mobiles, les progiciels et le mobilier urbain numérique. » [2] <!-- ref 2 -->
+
+En France en 2021, on estime qu’une personne sur sept, âgée de 15 ans ou plus, est en situation de handicap, soit 14% de la population [4]. <!-- ref 4 --> De plus, à tout âge de la vie, chacun et chacune peut être temporairement en situation de handicap. L’accessibilité numérique est donc un enjeu qui nous concerne toutes et tous.
+
+# L’impact environnemental du numérique
+
+Aujourd’hui, le secteur du numérique est à l’origine de 4 % des émissions mondiales de gaz à effet de serre [9]. <!-- ref 9 --> Si le numérique était un pays, il représenterait deux à trois fois l’empreinte de la France [11]. <!-- ref 11 --> D’après les projections du Shift Project, la quantité de gaz à effet de serre émise par le secteur du numérique en 2025 pourrait atteindre celle du secteur automobile aujourd’hui [10] <!-- ref 10 -->.
+
+On peut découper l’univers numérique en trois catégories [11] <!-- ref 11 --> : 
+1.	Les terminaux utilisateurs : environ 34 milliards d’équipements informatique (smartphones, télévisions, ordinateurs, écrans, objets connectés etc.) ;
+2.	Les réseaux : ils relient les terminaux utilisateurs entre eux, et aux centres informatiques ;
+3.	Les centres informatiques, aussi connus sous le nom de « data centers », qui stockent et partagent les données. 
+
+Peu importe l’indicateur observé, la phase la plus impactante est la fabrication de nos équipements utilisateurs. Ensuite vient la consommation électrique du réseau, puis celle des centres informatiques [9, 11] <!-- ref 9 & 11 -->.
+
+L’impact environnemental des e-mails est relativement faible comparé à la fabrication des appareils utilisés pour lire et écrire nos e-mails. Cependant, la question d’un usage réfléchi des e-mails peut être posée au regard de ces chiffres :
+
+-	Dans le monde, 8 à 10 milliards d’e-mails sont envoyés chaque heure (sans compter les spams) [9] <!-- ref 9 -->. 
+-	À l’échelle d’une entreprise, chaque salarié envoie en moyenne 33 e-mails de 1 Mo par jour [12] <!-- ref 12 -->. 
+
+Les estimations les plus récentes concernant l’empreinte carbone d’un e-mail ont été résumées par Basile Fighiera dans le tableau ci-dessous. On constate que les pièces jointes, ainsi que le nombre de destinataires jouent fortement dans l’impact environnemental des e-mails.
+
+![Tableau détaillant l'empreinte carbone d'un e-mail en fonction de la taille du corps de texte, avec ou sans pièce jointe, depuis un smartphone ou un ordinateur, et selon le nombre de destinataires.](/img/empreinte-carbone-email.jpg "Empreinte carbone d’un e-mail : mythes, réalités et solutions")
+
+*Exemple : « un e-mail court sans pièce jointe (10 Ko) rédigé et lu sur smartphone avec une connexion 4G, à 1 destinataire : 0,4 g CO2e ».*

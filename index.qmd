@@ -1,7 +1,16 @@
 ---
-title: "Guide-emails"
+title: "Guide pour une communication par emails éco-responsable et inclusive"
 ---
 
-This is a Quarto website.
+Ce guide a pour objectif de proposer des conseils simples pour adopter une communication par e-mail efficace, mais également écoresponsable et accessible à toutes et à tous.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Il introduit d’abord les enjeux liés aux notions d’accessibilité numérique et d’empreinte environnementale du numérique. Ensuite, il donne des conseils à intégrer au quotidien dans sa communication par e-mails. Enfin, les références utilisées et des outils supplémentaires sont disponibles dans la partie [Pour aller plus loin – Références et outils]. <!-- ajouter liens vers cette partie --> 
+
+La démarche de ce guide consiste à partir du particulier pour arriver au général : ce qui bénéficie aux personnes en situation de handicap bénéficie à tout le monde. En effet, adopter une communication par e-mails sobre et accessible apporte des gains :  
+
+- En termes de temps et d’efficacité ; 
+- Pour les personnes pas à l’aise avec l’outil informatique ; 
+- En cas de matériel ou de service peu approprié à la lecture des e-mails (mauvaise connexion internet, usage du smartphone) ; 
+- Pour les personnes en situation de handicap temporaire (par exemple : vous avez un bras dans le plâtre ou une infection à l’œil), et non temporaire. 
+
+Pour accéder directement à la partie pratique, rendez-vous [Partie 1 – Envoyer des e-mails accessibles et efficaces]. <!-- ajouter liens vers cette partie --> 

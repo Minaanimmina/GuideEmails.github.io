@@ -1,0 +1,37 @@
+---
+title: "Partie 2 – Envoyer des e-mails éco-responsables"
+---
+
+## Conseil 2.1 : raisonner l’envoi d’e-mails
+
+« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !
+
+&rarr;	Envoyer un e-mail seulement si c’est pertinent et utile </br>
+&rarr;	Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie </br>
+&rarr;	Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8] <!-- ref 8 --> </br>
+
+## Conseil 2.2 : minimiser l’impact des pièces jointes
+
+Dans l’idéal, il faut éviter l’envoi de pièces jointes. Lorsqu’elles sont nécessaires, vous pouvez :
+
+&rarr;	Les compresser au maximum avec un logiciel dédié. Par exemple : 7-Zip ou PeaZip </br>
+&rarr;	Les partager via des liens. Par exemple, via le service FileSender : [FileSender par Renater](https://filesender.renater.fr/) </br>
+&rarr;	Pour les documents partagés plusieurs fois, les stocker dans un cloud et envoyer un lien unique </br>
+&rarr;	Éviter les documents scannés car ce format est très lourd et donc leur impact est plus important. Si c’est indispensable : voir les conseils précédents </br>
+&rarr;	Si c’est possible, préférer le partage de votre document via une clé USB </br>
+
+## Conseil 2.3 : alléger le contenu de son e-mail
+
+De nombreux éléments peuvent alourdir l’impact environnemental de votre e-mail. Quelques habitudes peuvent être prises pour éviter cela :
+
+&rarr;	Alléger votre signature : éviter les signatures au format image, ou avec des logos en haute résolution </br>
+&rarr;	Éviter les images et les documents scannés dans le contenu de l’e-mail, préférez donner ces informations au format texte </br>
+
+## Conseil 2.4 : adopter une posture bas carbone
+
+En dehors de l’impact des e-mails précisément, ces gestes simples peuvent être mis en place au quotidien pour réduire notre empreinte environnementale numérique :
+
+&rarr; Privilégier l’utilisation du Wifi au réseau 4G : le réseau Wifi consomme 20 fois moins d’énergie que le réseau 4G </br>
+&rarr;	Allonger la durée de vie de vos équipements : privilégier le reconditionné, renouveler son matériel moins régulièrement, recycler ses équipements obsolètes </br>
+&rarr;	Utiliser le mode économie d’énergie de vos appareils électroniques </br>
+

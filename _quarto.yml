@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Guide-emails"
+  title: "Guide emails accessibles et sobres"
   navbar:
     left:
       - href: index.qmd
         text: Accueil
       - about.qmd
+      - introduction.qmd
+      - partie-1.qmd
+      - partie-2.qmd
+      - references.qmd
 
 format:
   html:

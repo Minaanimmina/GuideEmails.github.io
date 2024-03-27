@@ -6,7 +6,7 @@ title: "Pourquoi ce guide ?"
 
 > « Le pouvoir du Web réside dans son universalité. L'accès pour tous, quel que soit le handicap, est un aspect essentiel. » *Tim Berners-Lee, directeur du W3C et inventeur du World Wide Web*
 
-L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » [1] <!-- ref 1 -->
+L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » [1] @<!-- ref 1 -->
 
 Imaginez que votre lecteur d’écran[^1] liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible. Pour comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références [voir 7]. <!-- ref 7 -->
 

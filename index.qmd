@@ -1,10 +1,8 @@
 ---
-title: "Guide pour une communication par emails éco-responsable et inclusive"
+title: "Guide pour une communication par emails inclusive et éco-responsable"
 ---
 
-Ce guide a pour objectif de proposer des conseils simples pour adopter une communication par e-mail efficace, mais également écoresponsable et accessible à toutes et à tous.  
-
-Il introduit d’abord les enjeux liés aux notions d’accessibilité numérique et d’empreinte environnementale du numérique. Ensuite, il donne des conseils à intégrer au quotidien dans sa communication par e-mails. Enfin, les références utilisées et des outils supplémentaires sont disponibles dans la partie [Pour aller plus loin – Références et outils]. <!-- ajouter liens vers cette partie --> 
+Ce guide donne des recommandations pour adopter une communication par e-mail efficace, éco-responsable et accessible à toutes et à tous.  
 
 La démarche de ce guide consiste à partir du particulier pour arriver au général : ce qui bénéficie aux personnes en situation de handicap bénéficie à tout le monde. En effet, adopter une communication par e-mails sobre et accessible apporte des gains :  
 
@@ -13,4 +11,12 @@ La démarche de ce guide consiste à partir du particulier pour arriver au gén�
 - En cas de matériel ou de service peu approprié à la lecture des e-mails (mauvaise connexion internet, usage du smartphone) ; 
 - Pour les personnes en situation de handicap temporaire (par exemple : vous avez un bras dans le plâtre ou une infection à l’œil), et non temporaire. 
 
-Pour accéder directement à la partie pratique, rendez-vous [Partie 1 – Envoyer des e-mails accessibles et efficaces]. <!-- ajouter liens vers cette partie --> 
+L'onglet "Introduction" présente les enjeux autour de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
+
+La "Partie 1 – Envoyer des e-mails accessibles et efficaces" <!-- ajouter lien vers cette page --> donne 6 conseils à pour envoyer des e-mails inclusifs.
+
+La "Partie 2 – Envoyer des e-mails éco-responsables" <!-- ajouter lien vers cette page --> détaille 4 usages pour réduire l'impact de sa communication par voie électronique.
+
+Les **références** utilisées et des **outils supplémentaires** sont disponibles dans Pour aller plus loin – Références et outils. <!-- ajouter lien vers cette page --> 
+
+## Table des matières <!-- ajouter liens vers cette partie --> 

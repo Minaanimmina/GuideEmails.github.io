@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -160,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>« Le pouvoir du Web réside dans son universalité. L’accès pour tous, quel que soit le handicap, est un aspect essentiel. » <em>Tim Berners-Lee, directeur du W3C et inventeur du World Wide Web</em></p>
 </blockquote>
-<p>L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » [1] <!-- ref 1 --></p>
+<p>L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » <span class="citation" data-cites="AccessibiliteNumeriqueDesignGouv">(<a href="#ref-AccessibiliteNumeriqueDesignGouv" role="doc-biblioref">(DINUM) n.d.</a>)</span> <!-- ref 1 --></p>
 <p>Imaginez que votre lecteur d’écran<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible. Pour comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références [voir 7]. <!-- ref 7 --></p>
 <p>L’accessibilité numérique est une obligation légale depuis la loi du 11 février 2005 pour les personnes morales de droit public, comme les Universités françaises ou le CNRS. Les supports numériques concernés sont « les sites internet, intranet, extranet, les applications mobiles, les progiciels et le mobilier urbain numérique. » [2] <!-- ref 2 --></p>
 <p>En France en 2021, on estime qu’une personne sur sept, âgée de 15 ans ou plus, est en situation de handicap, soit 14% de la population [4]. <!-- ref 4 --> De plus, à tout âge de la vie, chacun et chacune peut être temporairement en situation de handicap. L’accessibilité numérique est donc un enjeu qui nous concerne toutes et tous.</p>
@@ -185,10 +205,15 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Exemple : « un e-mail court sans pièce jointe (10 Ko) rédigé et lu sur smartphone avec une connexion 4G, à 1 destinataire : 0,4 g CO2e ».</em></p>
 
 
+
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-AccessibiliteNumeriqueDesignGouv" class="csl-entry" role="listitem">
+(DINUM), Direction interministérielle du numérique. n.d. <span>“<span>Accessibilit<span>é</span> num<span>é</span>rique - DesignGouv</span>.”</span> <em>DesignGouv</em>. https://design.numerique.gouv.fr/accessibilite-numerique/. Accessed March 27, 2024.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>Un lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>

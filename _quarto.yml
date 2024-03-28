@@ -19,6 +19,8 @@ website:
       - href: references.qmd
         text: Références
 
+bibliography: biblio.bib
+
 format:
   html:
     theme: journal

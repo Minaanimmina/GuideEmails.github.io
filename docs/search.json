@@ -4,30 +4,21 @@
     "href": "partie-1.html",
     "title": "Partie 1 – Envoyer des e-mails accessibles et efficaces",
     "section": "",
-    "text": "Faire apparaître les informations suivantes en début d’e-mail :\n→ Qui : permet au destinataire de savoir s’il ou elle est concerné  → Quoi : si concerné, alors pour quel sujet  → Quand : si cela concerne un événement, la date auquel il aura lieu  → Où : le lieu où se déroulera cet événement",
-    "crumbs": [
-      "Partie 1 – Envoyer des e-mails accessibles et efficaces"
-    ]
+    "text": "Faire apparaître les informations suivantes en début d’e-mail :\n→ Qui : permet au destinataire de savoir s’il ou elle est concerné  → Quoi : si concerné, alors pour quel sujet  → Quand : si cela concerne un événement, la date auquel il aura lieu  → Où : le lieu où se déroulera cet événement"
   },
   {
     "objectID": "partie-1.html#conseil-1.1-préciser-en-début-de-mail-qui-quoi-quand-où",
     "href": "partie-1.html#conseil-1.1-préciser-en-début-de-mail-qui-quoi-quand-où",
     "title": "Partie 1 – Envoyer des e-mails accessibles et efficaces",
     "section": "",
-    "text": "Faire apparaître les informations suivantes en début d’e-mail :\n→ Qui : permet au destinataire de savoir s’il ou elle est concerné  → Quoi : si concerné, alors pour quel sujet  → Quand : si cela concerne un événement, la date auquel il aura lieu  → Où : le lieu où se déroulera cet événement",
-    "crumbs": [
-      "Partie 1 – Envoyer des e-mails accessibles et efficaces"
-    ]
+    "text": "Faire apparaître les informations suivantes en début d’e-mail :\n→ Qui : permet au destinataire de savoir s’il ou elle est concerné  → Quoi : si concerné, alors pour quel sujet  → Quand : si cela concerne un événement, la date auquel il aura lieu  → Où : le lieu où se déroulera cet événement"
   },
   {
     "objectID": "partie-1.html#conseil-1.2-les-pièces-jointes",
     "href": "partie-1.html#conseil-1.2-les-pièces-jointes",
     "title": "Partie 1 – Envoyer des e-mails accessibles et efficaces",
     "section": "Conseil 1.2 : les pièces jointes",
-    "text": "Conseil 1.2 : les pièces jointes\n\nLes documents .odt, .doc ou .docx : structurer le texte pour un meilleur accès à l’information\n→ Utiliser des titres ou des styles : voir « Fiches pour créer un document Microsoft Word, Excel ou PowerPoint respectant les règles d’accessibilité numérique » [13]   → A minima structurer le texte avec des puces et/ou un système de numérotation afin de faciliter la navigation dans le document\n\n\nLes documents .pdf : comment les rendre accessible\nLe format PDF est un des formats les plus couramment utilisé, mais il est difficilement accessible aux technologies d’assistance.\n→ Si possible : copier le contenu de la pièce jointe dans le corps de texte de l’e-mail\n\nLes personnes dyslexiques ou malvoyantes pourront adapter la mise en forme du texte à leur convenance\nLe contenu du fichier PDF sera plus accessible pour les utilisateurs de smartphone\n\n→ Sinon : voir le guide « Comment créer un document PDF accessible avec Word ? » de l’association Point de vue sur la ville [14] \n\n\nLes documents scannés : un format à éviter\nMalheureusement, ce type de document est incompatible avec certaines technologies utilisées par les personnes en situation de handicap. Il sera considéré comme une image et donc inintelligible pour votre destinataire.\n→ Éviter au maximum de partager ce type de document  → Si vous n’avez pas le choix : proposer une alternative au contenu de ce document, par exemple en résumant son contenu dans le corps de l’e-mail. Voir Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où ». \n\n\nConseil 1.3 : la mise en page du texte\nMettre en page son texte présente de multiples intérêts, notamment pour les contenus textuels longs (plus de quelques phrases). Le contenu rédigé sera plus agréable à lire, et donc la lecture plus efficace pour votre destinataire.\nPour respecter les règles les plus courantes d’accessibilité, il faut :\n→ Utiliser correctement la hiérarchie des titres proposé par votre éditeur d’e-mails  → Utiliser des listes numérotées ou à puces quand cela a du sens  → Utiliser une police d’écriture accessible \n\nIl n’existe pas à l’heure actuelle la police idéale, mais certaines sont plus universelles que d’autres en termes d’accessibilité. Par exemple : Arial, Calibri, Helvetica, Trebuchet ou Verdana, ou encore Luciole, une police créée pour les personnes dyslexiques.\n\n→ Ne pas justifier le texte : cela a pour effet d’étirer artificiellement les mots, rendant la lecture difficile notamment pour les personnes dyslexiques  → Expliciter les acronymes et les abréviations  → Être vigilant aux contrastes de couleur : du jaune clair sur fond blanc sera plus difficile à lire que du rouge foncé sur fond blanc  → Ne pas utiliser une couleur comme seul moyen de transmettre l’information : proposer un texte alternatif  → Mettre des accents aux lettres en majuscule  → Éviter les sauts de ligne \n\n\nConseil 1.4 : le transfert d’e-mails et la fonction répondre à tous\nTransférer un e-mail sur une liste de diffusion, ou répondre à un grand nombre de destinataires en même temps, s’accompagnent souvent de l’envoi d’informations pas toujours utiles. Pour éviter que cela prenne énormément de temps à vos collègues en situation de handicap pour lire vos e-mails, vous pouvez : → Effacer la liste des destinataires d’origine  → Modifier l’objet de l’e-mail pour qu’il soit plus approprié  → Effacer l’historique des échanges si cela ne nuit pas à la compréhension  → Utiliser le Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où » \n\n\nConseil 1.5 : la signature d’e-mails\nDe nombreux outils permettent de créer une signature automatique qui contient diverses informations utiles. Comme nous l’avons vu précédemment, le format image est très peu accessible aux technologies d’assistance.\n→ Éviter les signatures en format image uniquement (.jpeg, .png par exemple)  → Si vous n’avez pas le choix : éviter que des informations essentielles soient au format image (par exemple votre numéro de téléphone). Si c’est le cas, prévoir un texte alternatif pour les personnes qui n’y auront pas accès \n\n\nConseil 1.6 : l’écriture inclusive\nL’écriture inclusive est une façon de communiquer en incluant un public le plus large possible. Dans la langue française, elle se décline de plusieurs manières. L’usage du point médian est le plus connu, mais il reste malheureusement assez peu accessible pour certains publics en situation de handicap. Cependant, il est toujours possible de :\n→ Utiliser l’écriture dite détaillée ou décomposée. Par exemple : les chercheuses et les chercheurs ; les auteurs et les autrices  → Utiliser des mots épicènes (identique pour les deux genres). Par exemple : un ou une gestionnaire, un ou une stagiaire  → Utiliser des formules englobantes. Par exemple : « l’équipe de développement » à la place de « les développeurs et développeuses »",
-    "crumbs": [
-      "Partie 1 – Envoyer des e-mails accessibles et efficaces"
-    ]
+    "text": "Conseil 1.2 : les pièces jointes\n\nLes documents .odt, .doc ou .docx : structurer le texte pour un meilleur accès à l’information\n→ Utiliser des titres ou des styles : voir « Fiches pour créer un document Microsoft Word, Excel ou PowerPoint respectant les règles d’accessibilité numérique » [13]   → A minima structurer le texte avec des puces et/ou un système de numérotation afin de faciliter la navigation dans le document\n\n\nLes documents .pdf : comment les rendre accessible\nLe format PDF est un des formats les plus couramment utilisé, mais il est difficilement accessible aux technologies d’assistance.\n→ Si possible : copier le contenu de la pièce jointe dans le corps de texte de l’e-mail\n\nLes personnes dyslexiques ou malvoyantes pourront adapter la mise en forme du texte à leur convenance\nLe contenu du fichier PDF sera plus accessible pour les utilisateurs de smartphone\n\n→ Sinon : voir le guide « Comment créer un document PDF accessible avec Word ? » de l’association Point de vue sur la ville [14] \n\n\nLes documents scannés : un format à éviter\nMalheureusement, ce type de document est incompatible avec certaines technologies utilisées par les personnes en situation de handicap. Il sera considéré comme une image et donc inintelligible pour votre destinataire.\n→ Éviter au maximum de partager ce type de document  → Si vous n’avez pas le choix : proposer une alternative au contenu de ce document, par exemple en résumant son contenu dans le corps de l’e-mail. Voir Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où ». \n\n\nConseil 1.3 : la mise en page du texte\nMettre en page son texte présente de multiples intérêts, notamment pour les contenus textuels longs (plus de quelques phrases). Le contenu rédigé sera plus agréable à lire, et donc la lecture plus efficace pour votre destinataire.\nPour respecter les règles les plus courantes d’accessibilité, il faut :\n→ Utiliser correctement la hiérarchie des titres proposé par votre éditeur d’e-mails  → Utiliser des listes numérotées ou à puces quand cela a du sens  → Utiliser une police d’écriture accessible \n\nIl n’existe pas à l’heure actuelle la police idéale, mais certaines sont plus universelles que d’autres en termes d’accessibilité. Par exemple : Arial, Calibri, Helvetica, Trebuchet ou Verdana, ou encore Luciole, une police créée pour les personnes dyslexiques.\n\n→ Ne pas justifier le texte : cela a pour effet d’étirer artificiellement les mots, rendant la lecture difficile notamment pour les personnes dyslexiques  → Expliciter les acronymes et les abréviations  → Être vigilant aux contrastes de couleur : du jaune clair sur fond blanc sera plus difficile à lire que du rouge foncé sur fond blanc  → Ne pas utiliser une couleur comme seul moyen de transmettre l’information : proposer un texte alternatif  → Mettre des accents aux lettres en majuscule  → Éviter les sauts de ligne \n\n\nConseil 1.4 : le transfert d’e-mails et la fonction répondre à tous\nTransférer un e-mail sur une liste de diffusion, ou répondre à un grand nombre de destinataires en même temps, s’accompagnent souvent de l’envoi d’informations pas toujours utiles. Pour éviter que cela prenne énormément de temps à vos collègues en situation de handicap pour lire vos e-mails, vous pouvez : → Effacer la liste des destinataires d’origine  → Modifier l’objet de l’e-mail pour qu’il soit plus approprié  → Effacer l’historique des échanges si cela ne nuit pas à la compréhension  → Utiliser le Conseil 1.1 : préciser en début d’e-mail « qui, quoi, quand, où » \n\n\nConseil 1.5 : la signature d’e-mails\nDe nombreux outils permettent de créer une signature automatique qui contient diverses informations utiles. Comme nous l’avons vu précédemment, le format image est très peu accessible aux technologies d’assistance.\n→ Éviter les signatures en format image uniquement (.jpeg, .png par exemple)  → Si vous n’avez pas le choix : éviter que des informations essentielles soient au format image (par exemple votre numéro de téléphone). Si c’est le cas, prévoir un texte alternatif pour les personnes qui n’y auront pas accès \n\n\nConseil 1.6 : l’écriture inclusive\nL’écriture inclusive est une façon de communiquer en incluant un public le plus large possible. Dans la langue française, elle se décline de plusieurs manières. L’usage du point médian est le plus connu, mais il reste malheureusement assez peu accessible pour certains publics en situation de handicap. Cependant, il est toujours possible de :\n→ Utiliser l’écriture dite détaillée ou décomposée. Par exemple : les chercheuses et les chercheurs ; les auteurs et les autrices  → Utiliser des mots épicènes (identique pour les deux genres). Par exemple : un ou une gestionnaire, un ou une stagiaire  → Utiliser des formules englobantes. Par exemple : « l’équipe de développement » à la place de « les développeurs et développeuses »"
   },
   {
     "objectID": "index.html",
@@ -48,79 +39,55 @@
     "href": "about.html",
     "title": "A propos",
     "section": "",
-    "text": "About this site\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "A propos"
-    ]
+    "text": "About this site\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "introduction.html",
     "href": "introduction.html",
     "title": "Pourquoi ce guide ?",
     "section": "",
-    "text": "« Le pouvoir du Web réside dans son universalité. L’accès pour tous, quel que soit le handicap, est un aspect essentiel. » Tim Berners-Lee, directeur du W3C et inventeur du World Wide Web\n\nL’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » ((DINUM) n.d.) \nImaginez que votre lecteur d’écran1 liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible.\n→ Pour mieux comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références. \nL’accessibilité numérique est une obligation légale depuis la loi du 11 février 2005 pour les personnes morales de droit public, comme les Universités françaises ou le CNRS. Les supports numériques concernés sont « les sites internet, intranet, extranet, les applications mobiles, les progiciels et le mobilier urbain numérique. » [2] \nEn France en 2021, on estime qu’une personne sur sept, âgée de 15 ans ou plus, est en situation de handicap, soit 14% de la population [4].  De plus, à tout âge de la vie, chacun et chacune peut être temporairement en situation de handicap. L’accessibilité numérique est donc un enjeu qui nous concerne toutes et tous.",
-    "crumbs": [
-      "Pourquoi ce guide ?"
-    ]
+    "text": "« Le pouvoir du Web réside dans son universalité. L’accès pour tous, quel que soit le handicap, est un aspect essentiel. » Tim Berners-Lee, directeur du W3C et inventeur du World Wide Web\n\nL’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » ((DINUM) n.d.) \nImaginez que votre lecteur d’écran1 liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible.\n→ Pour mieux comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références. \nL’accessibilité numérique est une obligation légale depuis la loi du 11 février 2005 pour les personnes morales de droit public, comme les Universités françaises ou le CNRS. Les supports numériques concernés sont « les sites internet, intranet, extranet, les applications mobiles, les progiciels et le mobilier urbain numérique. » [2] \nEn France en 2021, on estime qu’une personne sur sept, âgée de 15 ans ou plus, est en situation de handicap, soit 14% de la population [4].  De plus, à tout âge de la vie, chacun et chacune peut être temporairement en situation de handicap. L’accessibilité numérique est donc un enjeu qui nous concerne toutes et tous."
   },
   {
     "objectID": "introduction.html#footnotes",
     "href": "introduction.html#footnotes",
     "title": "Pourquoi ce guide ?",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nUn lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur.↩︎",
-    "crumbs": [
-      "Pourquoi ce guide ?"
-    ]
+    "text": "Footnotes\n\n\nUn lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur.↩︎"
   },
   {
     "objectID": "partie-2.html",
     "href": "partie-2.html",
     "title": "Partie 2 – Envoyer des e-mails éco-responsables",
     "section": "",
-    "text": "« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]",
-    "crumbs": [
-      "Partie 2 – Envoyer des e-mails éco-responsables"
-    ]
+    "text": "« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]"
   },
   {
     "objectID": "partie-2.html#conseil-2.1-raisonner-lenvoi-de-mails",
     "href": "partie-2.html#conseil-2.1-raisonner-lenvoi-de-mails",
     "title": "Partie 2 – Envoyer des e-mails éco-responsables",
     "section": "",
-    "text": "« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]",
-    "crumbs": [
-      "Partie 2 – Envoyer des e-mails éco-responsables"
-    ]
+    "text": "« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]"
   },
   {
     "objectID": "partie-2.html#conseil-2.2-minimiser-limpact-des-pièces-jointes",
     "href": "partie-2.html#conseil-2.2-minimiser-limpact-des-pièces-jointes",
     "title": "Partie 2 – Envoyer des e-mails éco-responsables",
     "section": "Conseil 2.2 : minimiser l’impact des pièces jointes",
-    "text": "Conseil 2.2 : minimiser l’impact des pièces jointes\nDans l’idéal, il faut éviter l’envoi de pièces jointes. Lorsqu’elles sont nécessaires, vous pouvez :\n→ Les compresser au maximum avec un logiciel dédié. Par exemple : 7-Zip ou PeaZip  → Les partager via des liens. Par exemple, via le service FileSender : FileSender par Renater  → Pour les documents partagés plusieurs fois, les stocker dans un cloud et envoyer un lien unique  → Éviter les documents scannés car ce format est très lourd et donc leur impact est plus important. Si c’est indispensable : voir les conseils précédents  → Si c’est possible, préférer le partage de votre document via une clé USB",
-    "crumbs": [
-      "Partie 2 – Envoyer des e-mails éco-responsables"
-    ]
+    "text": "Conseil 2.2 : minimiser l’impact des pièces jointes\nDans l’idéal, il faut éviter l’envoi de pièces jointes. Lorsqu’elles sont nécessaires, vous pouvez :\n→ Les compresser au maximum avec un logiciel dédié. Par exemple : 7-Zip ou PeaZip  → Les partager via des liens. Par exemple, via le service FileSender : FileSender par Renater  → Pour les documents partagés plusieurs fois, les stocker dans un cloud et envoyer un lien unique  → Éviter les documents scannés car ce format est très lourd et donc leur impact est plus important. Si c’est indispensable : voir les conseils précédents  → Si c’est possible, préférer le partage de votre document via une clé USB"
   },
   {
     "objectID": "partie-2.html#conseil-2.3-alléger-le-contenu-de-son-e-mail",
     "href": "partie-2.html#conseil-2.3-alléger-le-contenu-de-son-e-mail",
     "title": "Partie 2 – Envoyer des e-mails éco-responsables",
     "section": "Conseil 2.3 : alléger le contenu de son e-mail",
-    "text": "Conseil 2.3 : alléger le contenu de son e-mail\nDe nombreux éléments peuvent alourdir l’impact environnemental de votre e-mail. Quelques habitudes peuvent être prises pour éviter cela :\n→ Alléger votre signature : éviter les signatures au format image, ou avec des logos en haute résolution  → Éviter les images et les documents scannés dans le contenu de l’e-mail, préférez donner ces informations au format texte",
-    "crumbs": [
-      "Partie 2 – Envoyer des e-mails éco-responsables"
-    ]
+    "text": "Conseil 2.3 : alléger le contenu de son e-mail\nDe nombreux éléments peuvent alourdir l’impact environnemental de votre e-mail. Quelques habitudes peuvent être prises pour éviter cela :\n→ Alléger votre signature : éviter les signatures au format image, ou avec des logos en haute résolution  → Éviter les images et les documents scannés dans le contenu de l’e-mail, préférez donner ces informations au format texte"
   },
   {
     "objectID": "partie-2.html#conseil-2.4-adopter-une-posture-bas-carbone",
     "href": "partie-2.html#conseil-2.4-adopter-une-posture-bas-carbone",
     "title": "Partie 2 – Envoyer des e-mails éco-responsables",
     "section": "Conseil 2.4 : adopter une posture bas carbone",
-    "text": "Conseil 2.4 : adopter une posture bas carbone\nEn dehors de l’impact des e-mails précisément, ces gestes simples peuvent être mis en place au quotidien pour réduire notre empreinte environnementale numérique :\n→ Privilégier l’utilisation du Wifi au réseau 4G : le réseau Wifi consomme 20 fois moins d’énergie que le réseau 4G  → Allonger la durée de vie de vos équipements : privilégier le reconditionné, renouveler son matériel moins régulièrement, recycler ses équipements obsolètes  → Utiliser le mode économie d’énergie de vos appareils électroniques",
-    "crumbs": [
-      "Partie 2 – Envoyer des e-mails éco-responsables"
-    ]
+    "text": "Conseil 2.4 : adopter une posture bas carbone\nEn dehors de l’impact des e-mails précisément, ces gestes simples peuvent être mis en place au quotidien pour réduire notre empreinte environnementale numérique :\n→ Privilégier l’utilisation du Wifi au réseau 4G : le réseau Wifi consomme 20 fois moins d’énergie que le réseau 4G  → Allonger la durée de vie de vos équipements : privilégier le reconditionné, renouveler son matériel moins régulièrement, recycler ses équipements obsolètes  → Utiliser le mode économie d’énergie de vos appareils électroniques"
   }
 ]

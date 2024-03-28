@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
-
 bibliography: biblio.bib
 
 format:
@@ -13,8 +11,23 @@ format:
     toc: true
 
 website:
-  sidebar: 
-    contents: auto
+  title: "Guide e-mails inclusifs et éco-responsables"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: introduction.qmd
+        text: Pourquoi ?
+      - href: partie-1.qmd
+        text: Accessible
+      - href: partie-2.qmd
+        text: Éco-responsable
+      - href: references.qmd
+        text: Références et outils
+      - href: about.qmd
+        text: À propos
+
+
 
 
 

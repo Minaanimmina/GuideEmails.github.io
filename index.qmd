@@ -11,12 +11,12 @@ La démarche de ce guide consiste à partir du particulier pour arriver au gén�
 - En cas de matériel ou de service peu approprié à la lecture des e-mails (mauvaise connexion internet, usage du smartphone) ; 
 - Pour les personnes en situation de handicap temporaire (par exemple : vous avez un bras dans le plâtre ou une infection à l’œil), et non temporaire. 
 
-L'onglet "Introduction" présente les enjeux autour de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
+Cliquez sur "Pourquoi ?" <!-- ajouter lien vers page --> pour comprendre les enjeux de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
 
-La "Partie 1 – Envoyer des e-mails accessibles et efficaces" <!-- ajouter lien vers cette page --> donne **6 conseils** pour envoyer des **e-mails inclusifs**.
+L'onglet "Accessible" <!-- ajouter lien vers cette page --> donne **6 conseils** pour envoyer des **e-mails inclusifs** et **accessibles** à **toutes et à tous**.
 
 La "Partie 2 – Envoyer des e-mails éco-responsables" <!-- ajouter lien vers cette page --> détaille **4 usages** pour réduire l'impact environnemental de ses e-mails.
 
-Les **références** utilisées et des **outils supplémentaires** sont disponibles dans Pour aller plus loin – Références et outils. <!-- ajouter lien vers cette page --> 
+Toutes les **références** utilisées et des **outils supplémentaires** sont disponibles dans "Références et outils". <!-- ajouter lien vers page --> 
 
 ## Table des matières <!-- ajouter liens vers cette partie --> 

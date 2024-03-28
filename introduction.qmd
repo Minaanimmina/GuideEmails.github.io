@@ -8,7 +8,9 @@ title: "Pourquoi ce guide ?"
 
 L’accessibilité numérique peut être définie comme le fait de « rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. » [@AccessibiliteNumeriqueDesignGouv] <!-- ref 1 -->
 
-Imaginez que votre lecteur d’écran[^1] liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible. Pour comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références [voir 7]. <!-- ref 7 -->
+Imaginez que votre lecteur d’écran[^1] liste d’abord les dizaines de destinataires de l’e-mail reçu, avant que vous passiez plusieurs minutes à essayer de comprendre le propos de cet e-mail dont l’objet était incompréhensible.
+
+&rarr;	*Pour mieux comprendre comment les personnes en situation de handicap utilisent le web et les outils numériques, des ressources sont disponibles dans les références.* <!-- lien vers Références -->
 
 [^1]: Un lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur. 
 

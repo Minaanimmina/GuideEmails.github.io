@@ -12,6 +12,7 @@ format:
 
 website:
   title: "Guide e-mails inclusifs et éco-responsables"
+  reader-mode: true
   navbar:
     left:
       - href: index.qmd
@@ -26,7 +27,8 @@ website:
         text: Références et outils
       - href: about.qmd
         text: À propos
-
+  repo-url: https://github.com/Minaanimmina/GuideEmails.github.io
+  repo-actions: [issue]  
 
 
 

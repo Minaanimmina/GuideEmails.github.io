@@ -2,3 +2,64 @@
 title: "Pour aller plus loin – Références et outils"
 ---
 
+# Pourquoi ce guide ?
+
+## L’accessibilité numérique, une obligation légale 
+
+    Direction interministérielle du numérique (DINUM). Accessibilité numérique. DesignGouv, Accès Décembre 11, 2023.  https://design.numerique.gouv.fr/accessibilite-numerique/ 
+
+    Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées (J.O. 12 février 2005). https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000809647  
+
+    Sébastien Delorme. Les obligations légales d’accessibilité numérique en France. Ideance.net; 2023. Accès Octobre 26, 2023. https://ideance.net/blog/293/loi-accessibilite-numerique-france/  
+
+    Marie Rey. En France, une personne sur sept de 15 ans ou plus est handicapée, en 2021. DREES, février 2023, n°1254, 7 pages. [En ligne] https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/en-france-une-personne-sur-sept-de-15-ans-ou-plus-est-handicapee  
+
+    Shadi Abou Zahra. Comment les personnes handicapées utilisent le web. W3C, 15 mai 2017. https://www.w3.org/WAI/people-use-web/fr  
+
+    Accessibilité numérique Orange. Quelques personae. A11y-guidelines, Accès Décembre 11, 2023. https://a11y-guidelines.orange.com/fr/persona/  
+
+    Direction interministérielle du numérique (DINUM). Playlist « Accessibilité numérique ». YouTube, 1 août 2023. https://www.youtube.com/playlist?list=PLzwHdQWfGYgaOs3drhozCyHWW4pVO4Skw  
+
+## L’impact environnemental du numérique 
+
+    Basile Fighiera. Empreinte carbone d’un e-mail : mythes, réalités et solutions. Sami.eco. Accès Décembre 11, 2023. https://www.sami.eco/blog/empreinte-carbone-email 
+
+    ADEME. La face cachée du numérique. Réduire les impacts du numérique sur l’environnement. ADEME, 2021:23. https://cnm.fr/wp-content/uploads/2021/08/ademe_guide-pratique-face-cachee-numerique.pdf 
+
+    Kevin Marquet, Françoise Berthoud, Jacques Combaz. Introduction aux impacts environnementaux du numérique. Bulletin de la Société Informatique de France. 2019, 1024(13):85-97. DOI:10.48556/SIF.1024.13.85 
+
+    Frédéric Bordage. Empreinte environnementale du numérique mondial. GreenIT.fr; 2019, 40. https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf 
+
+    ADEME. Analyse Comparée Des Impacts Environnementaux de La Communication Par Voie Électronique. Présentation Des Résultats. ADEME, 2011:44. Accès Novembre 23, 2023. https://presse.ademe.fr/files/acv_ntic_synthese_resultats.pdf 
+
+# Envoyer des e-mails accessibles 
+
+## Conseil 1.2 – Les pièces jointes 
+
+    Accessibilité numérique Orange. Fiches pour créer un document Microsoft Word, Excel ou PowerPoint respectant les règles d’accessibilité numérique. A11y-guidelines, 2022. Accès Janvier 18, 2023. https://a11y-guidelines.orange.com/fr/articles/memo-accessibilite/#rediger-un-email-accessible 
+
+    Association Point de vue sur la ville. Comment créer un document PDF accessible avec Word ? Point de vue sur la ville, 2023. Accès 14 Septembre, 2023. https://pointdevuesurlaville.org/creer-un-document-accessible-avec-word/  
+
+## Conseil 1.3 – La structuration et le formatage du texte 
+
+    Tranchet Anne-Sophie. Accessibilité et typographie : qu’est-ce qu’une police de caractères accessible ? Hello-bokeh.fr; 2023. Accès Septembre 12, 2023. https://blog.hello-bokeh.fr/2023/01/12/accessibilite-et-typographie-quest-ce-quune-police-de-caracteres-accessible/ 
+
+## Conseil 1.5 – La signature d’e-mails 
+
+    Sagot Jules. Comment créer sa signature mail en HTML. Skema.cloud. Accès 14 Septembre, 2023. https://www.skema.cloud/blog/developpement-2/comment-creer-sa-signature-mail-en-html-2  
+
+## Conseil 1.6 – L’écriture inclusive 
+
+    Mission Égalité-Diversité. Recommandations pour une communication sans stéréotype de sexe », Université Claude Bernard Lyon 1. Accès 13 Septembre, 2023. En ligne : http://egalite-diversite.univ-lyon1.fr/ecriture/  
+
+    Haut Conseil à l’Égalité entre les femmes et les hommes. Pour une communication sans stéréotype de sexe : le Guide pratique du Haut Conseil à l’Égalité, La documentation Française, 2016:68. https://www.haut-conseil-egalite.gouv.fr/IMG/pdf/guide_pour_une_communication_publique_sans_stereotype_de_sexe_vf_2016_11_02.compressed.pdf 
+
+    Julie Moynat. Écriture inclusive et accessibilité numérique, table ronde lors des Journées d’étude technologies et déficience visuelle. La Lutine du Web; 2020. Accès Juillet 12, 2023.  https://www.lalutineduweb.fr/ecriture-inclusive-accessibilite-numerique-jetdv2020/#j-differentes-formes 
+
+# Envoyer des e-mails éco-responsables
+
+    Basile Fighiera. Empreinte carbone d’un e-mail : mythes, réalités et solutions. Sami.eco; 2023. Accès Décembre 11, 2023. https://www.sami.eco/blog/empreinte-carbone-email 
+
+    Frédéric Bordage. Comment réduire l’impact de mes e-mails ?  GreenIT.fr; 2018. Accès Juin 20, 2023. https://www.greenit.fr/2018/09/11/reduire-limpact-de-e-mails/ 
+
+    Frédéric Bordage. Et si nous envoyions nos courriels au format texte ? GreenIT.fr; 2013. Accès Juin 20, 2023. https://www.greenit.fr/2013/01/03/et-si-nous-envoyions-nos-courriels-au-format-texte/  

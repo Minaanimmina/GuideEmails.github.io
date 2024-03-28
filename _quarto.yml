@@ -13,11 +13,11 @@ website:
       - href: introduction.qmd
         text: Introduction
       - href: partie-1.qmd
-        text: Partie 1
+        text: Accessibles
       - href: partie-2.qmd
-        text: Partie 2
+        text: Eco-responsable
       - href: references.qmd
-        text: Références
+        text: Références et outils
 
 bibliography: biblio.bib
 

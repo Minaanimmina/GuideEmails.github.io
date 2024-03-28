@@ -13,9 +13,9 @@ La démarche de ce guide consiste à partir du particulier pour arriver au gén�
 
 L'onglet "Introduction" présente les enjeux autour de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
 
-La "Partie 1 – Envoyer des e-mails accessibles et efficaces" <!-- ajouter lien vers cette page --> donne 6 conseils à pour envoyer des e-mails inclusifs.
+La "Partie 1 – Envoyer des e-mails accessibles et efficaces" <!-- ajouter lien vers cette page --> donne **6 conseils** pour envoyer des **e-mails inclusifs**.
 
-La "Partie 2 – Envoyer des e-mails éco-responsables" <!-- ajouter lien vers cette page --> détaille 4 usages pour réduire l'impact de sa communication par voie électronique.
+La "Partie 2 – Envoyer des e-mails éco-responsables" <!-- ajouter lien vers cette page --> détaille **4 usages** pour réduire l'impact environnemental de ses e-mails.
 
 Les **références** utilisées et des **outils supplémentaires** sont disponibles dans Pour aller plus loin – Références et outils. <!-- ajouter lien vers cette page --> 
 

@@ -19,9 +19,9 @@ website:
         text: Accueil
       - href: introduction.qmd
         text: Pourquoi ?
-      - href: partie-1.qmd
+      - href: accessible.qmd
         text: Accessible
-      - href: partie-2.qmd
+      - href: eco.qmd
         text: Éco-responsable
       - href: references.qmd
         text: Références et outils

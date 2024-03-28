@@ -49,46 +49,53 @@
     "text": "Conseil 1.6 – L’écriture inclusive\nMission Égalité-Diversité. Recommandations pour une communication sans stéréotype de sexe », Université Claude Bernard Lyon 1. Accès 13 Septembre, 2023. En ligne : http://egalite-diversite.univ-lyon1.fr/ecriture/  \n\nHaut Conseil à l’Égalité entre les femmes et les hommes. Pour une communication sans stéréotype de sexe : le Guide pratique du Haut Conseil à l’Égalité, La documentation Française, 2016:68. https://www.haut-conseil-egalite.gouv.fr/IMG/pdf/guide_pour_une_communication_publique_sans_stereotype_de_sexe_vf_2016_11_02.compressed.pdf \n\nJulie Moynat. Écriture inclusive et accessibilité numérique, table ronde lors des Journées d’étude technologies et déficience visuelle. La Lutine du Web; 2020. Accès Juillet 12, 2023.  https://www.lalutineduweb.fr/ecriture-inclusive-accessibilite-numerique-jetdv2020/#j-differentes-formes"
   },
   {
-    "objectID": "partie-1.html",
-    "href": "partie-1.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guide pour une communication par emails inclusive et éco-responsable",
+    "section": "",
+    "text": "Ce site donne des recommandations pour adopter une communication par e-mail efficace, éco-responsable et accessible à toutes et à tous.\n\nPlan du site\n\nCliquez sur Pourquoi ? pour comprendre les enjeux de l’accessibilité numérique et de l’empreinte environnementale du numérique.\nL’onglet Accessible donne 6 conseils pour envoyer des e-mails inclusifs et accessibles à toutes et à tous.\nL’onglet Éco-responsable  détaille 4 usages pour réduire l’impact environnemental de ses e-mails.\nRetrouvez toutes les références utilisées et des outils supplémentaires dans l’onglet Références et outils. \nPour en savoir plus sur l’origine de ce projet rendez-vous sur l’onglet À propos"
+  },
+  {
+    "objectID": "accessible.html",
+    "href": "accessible.html",
     "title": "Envoyer des e-mails accessibles",
     "section": "",
     "text": "Faire apparaître les informations suivantes en début d’e-mail :\n→ Qui : permet au destinataire de savoir s’il ou elle est concerné  → Quoi : si concerné, alors pour quel sujet  → Quand : si cela concerne un événement, la date auquel il aura lieu  → Où : le lieu où se déroulera cet événement"
   },
   {
-    "objectID": "partie-1.html#les-documents-.odt-.doc-ou-.docx-structurer-le-contenu-pour-un-meilleur-accès-à-linformation",
-    "href": "partie-1.html#les-documents-.odt-.doc-ou-.docx-structurer-le-contenu-pour-un-meilleur-accès-à-linformation",
+    "objectID": "accessible.html#les-documents-.odt-.doc-ou-.docx-structurer-le-contenu-pour-un-meilleur-accès-à-linformation",
+    "href": "accessible.html#les-documents-.odt-.doc-ou-.docx-structurer-le-contenu-pour-un-meilleur-accès-à-linformation",
     "title": "Envoyer des e-mails accessibles",
     "section": "Les documents .odt, .doc ou .docx : structurer le contenu pour un meilleur accès à l’information",
     "text": "Les documents .odt, .doc ou .docx : structurer le contenu pour un meilleur accès à l’information\n→ Utiliser des titres ou des styles : voir « Fiches pour créer un document Microsoft Word, Excel ou PowerPoint respectant les règles d’accessibilité numérique » [13]   → A minima structurer le texte avec des puces et/ou un système de numérotation afin de faciliter la navigation dans le document → Légender avec précision les images et les contenus graphiques"
   },
   {
-    "objectID": "partie-1.html#les-documents-.pdf-les-rendre-accessible-en-résumant-linformation",
-    "href": "partie-1.html#les-documents-.pdf-les-rendre-accessible-en-résumant-linformation",
+    "objectID": "accessible.html#les-documents-.pdf-les-rendre-accessible-en-résumant-linformation",
+    "href": "accessible.html#les-documents-.pdf-les-rendre-accessible-en-résumant-linformation",
     "title": "Envoyer des e-mails accessibles",
     "section": "Les documents .pdf : les rendre accessible en résumant l’information",
     "text": "Les documents .pdf : les rendre accessible en résumant l’information\nLe format PDF est un des formats les plus couramment utilisé, mais il est difficilement accessible aux technologies d’assistance.\n→ Si possible : copier le contenu de la pièce jointe dans le corps de texte de l’e-mail\n\nLes personnes dyslexiques ou malvoyantes pourront adapter la mise en forme du texte à leur convenance\nLe contenu du fichier PDF sera plus accessible pour les utilisateurs de smartphone\n\n→ Sinon : voir le guide « Comment créer un document PDF accessible avec Word ? » de l’association Point de vue sur la ville [14]"
   },
   {
-    "objectID": "partie-1.html#les-documents-scannés-un-format-à-éviter",
-    "href": "partie-1.html#les-documents-scannés-un-format-à-éviter",
+    "objectID": "accessible.html#les-documents-scannés-un-format-à-éviter",
+    "href": "accessible.html#les-documents-scannés-un-format-à-éviter",
     "title": "Envoyer des e-mails accessibles",
     "section": "Les documents scannés : un format à éviter",
     "text": "Les documents scannés : un format à éviter\nMalheureusement, ce type de document est incompatible avec certaines technologies utilisées par les personnes en situation de handicap. Il sera considéré comme une image et ne sera pas accessible.\n→ Éviter au maximum de partager ce type de document  → Si vous n’avez pas le choix : proposer une alternative au contenu de ce document, par exemple en résumant son contenu dans le corps de l’e-mail"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Guide pour une communication par emails inclusive et éco-responsable",
-    "section": "",
-    "text": "Ce site donne des recommandations pour adopter une communication par e-mail efficace, éco-responsable et accessible à toutes et à tous.\n\nPlan du site\n\nCliquez sur “Pourquoi ?”  pour comprendre les enjeux de l’accessibilité numérique et de l’empreinte environnementale du numérique.\nL’onglet “Accessible”  donne 6 conseils pour envoyer des e-mails inclusifs et accessibles à toutes et à tous.\nL’onglet “Éco-responsable”  détaille 4 usages pour réduire l’impact environnemental de ses e-mails.\nRetrouvez toutes les références utilisées et des outils supplémentaires “Références et outils”."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "A propos",
+    "title": "À propos",
     "section": "",
-    "text": "La démarche de ce guide consiste à partir du particulier pour arriver au général : ce qui bénéficie aux personnes en situation de handicap bénéficie à tout le monde. En effet, adopter une communication par e-mails sobre et accessible apporte des gains :\n\nEn termes de temps et d’efficacité ;\nPour les personnes pas à l’aise avec l’outil informatique ;\nEn cas de matériel ou de service peu approprié à la lecture des e-mails (mauvaise connexion internet, usage du smartphone) ;\nPour les personnes en situation de handicap temporaire (par exemple : vous avez un bras dans le plâtre ou une infection à l’œil), et non temporaire.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "La démarche de ce guide consiste à partir du particulier pour arriver au général : ce qui bénéficie aux personnes en situation de handicap bénéficie à tout le monde. En effet, adopter une communication par e-mails sobre et accessible apporte des gains :\n\nEn termes de temps et d’efficacité ;\nPour les personnes pas à l’aise avec l’outil informatique ;\nEn cas de matériel ou de service peu approprié à la lecture des e-mails (mauvaise connexion internet, usage du smartphone) ;\nPour les personnes en situation de handicap temporaire (par exemple : vous avez un bras dans le plâtre ou une infection à l’œil), et non temporaire.\n\nEn construction \n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "eco.html",
+    "href": "eco.html",
+    "title": "Envoyer des e-mails éco-responsables",
+    "section": "",
+    "text": "Conseil 2.1 : raisonner l’envoi d’e-mails\n« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]  \n\n\nConseil 2.2 : minimiser l’impact des pièces jointes\nDans l’idéal, il faut éviter l’envoi de pièces jointes. Lorsqu’elles sont nécessaires, vous pouvez :\n→ Si c’est possible, préférer le partage de votre document via une clé USB  → Les compresser au maximum avec un logiciel dédié. Par exemple : 7-Zip ou PeaZip  → Les partager via des liens. Par exemple, via le service FileSender : FileSender par Renater  → Pour les documents partagés plusieurs fois, les stocker dans un cloud et envoyer un lien unique  → Éviter les documents scannés car ce format est très lourd et donc leur impact est plus important. Si c’est indispensable : voir les conseils précédents \n\n\nConseil 2.3 : alléger le contenu de son e-mail\nDe nombreux éléments peuvent alourdir l’impact environnemental de votre e-mail. Quelques habitudes peuvent être prises pour éviter cela :\n→ Alléger votre signature : éviter les signatures au format image, ou avec des logos en haute résolution  → Éviter les images et les documents scannés dans le contenu de l’e-mail, donnez plutôt les informations au format texte \n\n\nConseil 2.4 : adopter une posture bas carbone\nEn dehors de l’impact des e-mails en particulier, ces gestes simples peuvent être mis en place au quotidien pour réduire notre empreinte environnementale numérique :\n→ Privilégier l’utilisation du Wifi au réseau 4G : le réseau Wifi consomme 20 fois moins d’énergie que le réseau 4G  → Allonger la durée de vie de vos équipements : privilégier le reconditionné, renouveler son matériel moins régulièrement, recycler ses équipements obsolètes  → Utiliser le mode économie d’énergie de vos appareils électroniques"
   },
   {
     "objectID": "introduction.html",
@@ -103,12 +110,5 @@
     "title": "Pourquoi ce guide ?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nUn lecteur d’écran permet de retranscrire via une synthèse vocale (voix synthétique qui lit le contenu à l’écran) et/ou sur un afficheur braille (dispositif qui affiche en temps réel des caractères braille) les éléments affichés sur l’écran de votre ordinateur.↩︎"
-  },
-  {
-    "objectID": "partie-2.html",
-    "href": "partie-2.html",
-    "title": "Envoyer des e-mails éco-responsables",
-    "section": "",
-    "text": "Conseil 2.1 : raisonner l’envoi d’e-mails\n« Le meilleur déchet est celui qu’on ne produit pas. » Cette maxime est applicable à l’e-mail, puisque le meilleur moyen de minimiser l’impact d’un e-mail est… de ne pas l’envoyer !\n→ Envoyer un e-mail seulement si c’est pertinent et utile  → Bien cibler les destinataires : éviter de « répondre à tous » et de multiplier les destinataires en copie  → Communiquer par SMS lorsque c’est possible : ils sont 200 fois moins émetteurs de gaz à effet de serre que les e-mails [8]  \n\n\nConseil 2.2 : minimiser l’impact des pièces jointes\nDans l’idéal, il faut éviter l’envoi de pièces jointes. Lorsqu’elles sont nécessaires, vous pouvez :\n→ Si c’est possible, préférer le partage de votre document via une clé USB  → Les compresser au maximum avec un logiciel dédié. Par exemple : 7-Zip ou PeaZip  → Les partager via des liens. Par exemple, via le service FileSender : FileSender par Renater  → Pour les documents partagés plusieurs fois, les stocker dans un cloud et envoyer un lien unique  → Éviter les documents scannés car ce format est très lourd et donc leur impact est plus important. Si c’est indispensable : voir les conseils précédents \n\n\nConseil 2.3 : alléger le contenu de son e-mail\nDe nombreux éléments peuvent alourdir l’impact environnemental de votre e-mail. Quelques habitudes peuvent être prises pour éviter cela :\n→ Alléger votre signature : éviter les signatures au format image, ou avec des logos en haute résolution  → Éviter les images et les documents scannés dans le contenu de l’e-mail, donnez plutôt les informations au format texte \n\n\nConseil 2.4 : adopter une posture bas carbone\nEn dehors de l’impact des e-mails en particulier, ces gestes simples peuvent être mis en place au quotidien pour réduire notre empreinte environnementale numérique :\n→ Privilégier l’utilisation du Wifi au réseau 4G : le réseau Wifi consomme 20 fois moins d’énergie que le réseau 4G  → Allonger la durée de vie de vos équipements : privilégier le reconditionné, renouveler son matériel moins régulièrement, recycler ses équipements obsolètes  → Utiliser le mode économie d’énergie de vos appareils électroniques"
   }
 ]

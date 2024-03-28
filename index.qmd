@@ -6,7 +6,8 @@ Ce site donne des recommandations pour adopter une communication par e-mail effi
 
 # Plan du site
 
-* Cliquez sur "Pourquoi ?" <!-- ajouter lien vers page --> pour comprendre les enjeux de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
-* L'onglet "Accessible" <!-- ajouter lien vers cette page --> donne **6 conseils** pour envoyer des **e-mails inclusifs** et **accessibles** à **toutes et à tous**.
-* L'onglet "Éco-responsable" <!-- ajouter lien vers cette page --> détaille **4 usages** pour réduire l'impact environnemental de ses e-mails.
-* Retrouvez toutes les **références** utilisées et des **outils supplémentaires** "Références et outils". <!-- ajouter lien vers page --> 
+* Cliquez sur [Pourquoi ?](https://minaanimmina.github.io/GuideEmails.github.io/introduction.html) pour comprendre les enjeux de **l'accessibilité numérique** et de **l’empreinte environnementale du numérique**.
+* L'onglet [Accessible](https://minaanimmina.github.io/GuideEmails.github.io/accessible.html) donne **6 conseils** pour envoyer des **e-mails inclusifs** et **accessibles** à **toutes et à tous**.
+* L'onglet [Éco-responsable](https://minaanimmina.github.io/GuideEmails.github.io/eco.html) <!-- ajouter lien vers cette page --> détaille **4 usages** pour réduire l'impact environnemental de ses e-mails.
+* Retrouvez toutes les **références** utilisées et des **outils supplémentaires** dans l'onglet [Références et outils](https://minaanimmina.github.io/GuideEmails.github.io/references.html). <!-- ajouter lien vers page --> 
+* Pour en savoir plus sur l'origine de ce projet rendez-vous sur l'onglet [À propos](https://minaanimmina.github.io/GuideEmails.github.io/about.html)
